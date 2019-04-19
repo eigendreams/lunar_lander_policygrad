@@ -1,0 +1,1 @@
+A minimalistic example of implementing policy gradient with baseline for the lunar lander environment as part of the Georgia Tech OMSCS Reinforcement Learning class, code CS7640 project 2.
